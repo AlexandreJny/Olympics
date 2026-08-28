@@ -1,0 +1,9 @@
+# Données volumineuses
+disciplines/1-bmx-freestyle/data/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
