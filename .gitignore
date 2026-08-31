@@ -1,5 +1,6 @@
 # Données volumineuses
 disciplines/1-bmx-freestyle/data/
+disciplines/1-bmx-freestyle/docs/
 
 # Jupyter
 .ipynb_checkpoints/
