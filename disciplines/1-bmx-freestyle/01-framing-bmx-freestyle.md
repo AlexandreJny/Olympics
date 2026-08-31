@@ -1,5 +1,5 @@
 # Framing Sheet — BMX Freestyle (Park)
-**Week 35 · Aug 17-23, 2026 · LA2028**
+**Week 35 · Aug 24-30, 2026 · LA2028**
 
 ## 1. What "performance" means in this discipline
 Olympic BMX Freestyle is contested only in **Park** format (Flatland is not an Olympic event). Each athlete performs **two 60-second runs** on a course of ramps, rails, and features. A panel of 5 judges gives an overall score on a 0-100 scale (sometimes displayed as 0.00-99.99), based on an **overall impression** combining several criteria: difficulty, execution (clean technical delivery of a trick), creativity, use of the course, amplitude, variety of tricks, flow, and clean landings.
