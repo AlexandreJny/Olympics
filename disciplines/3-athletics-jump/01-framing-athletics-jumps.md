@@ -35,7 +35,7 @@ All four are purely **measured outcomes** (distance or height), not judged — b
 - World Athletics Research Centre biomechanical reports — official kinematic analyses of every finalist at recent World Championships, covering approach speed, take-off angle, and flight mechanics for each jump event
 - Academic literature is unusually rich for this discipline family compared to newer Olympic sports: search terms like *"long jump biomechanics take-off velocity"*, *"pole vault energy transfer"*, *"high jump approach run kinematics"* return decades of peer-reviewed material
 - Wikipedia result pages for recent World Championships and Olympic Games jump finals (attempt-by-attempt marks, useful as a raw data source)
-- Note: a 2024 arXiv study applied quantile random forest and explainable-AI techniques directly to World Athletics long jump biomechanical data
+- Note: a 2025 arXiv study applied quantile random forest and explainable-AI techniques directly to World Athletics long jump biomechanical data
 
 ## 6. Notes / research hypotheses
 - Discipline with a genuinely large, decades-deep official biomechanical dataset behind it (World Athletics Research Centre reports since 1995) — a good opportunity to go beyond results-only analysis and incorporate technical/kinematic variables if time allows.

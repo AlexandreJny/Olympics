@@ -3,6 +3,8 @@ disciplines/1-bmx-freestyle/data/
 disciplines/1-bmx-freestyle/docs/
 disciplines/2-canoe-slalom/data/
 disciplines/2-canoe-slalom/docs/
+disciplines/3-athletics-jump/data/
+disciplines/3-athletics-jump/docs/
 
 # Jupyter
 .ipynb_checkpoints/
